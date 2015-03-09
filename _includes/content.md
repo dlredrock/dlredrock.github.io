@@ -1,8 +1,6 @@
----
-layout: post
-date:   2015-03-05 16:39:38
-categories: jekyll update
----
+# ---
+# layout: page
+# ---
 
 ### 攀岩馆在哪?
 港湾广场，长江东路（万达公馆售楼处和新东方渔人码头之间的路口）前行500米，<br>
